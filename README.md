@@ -1,6 +1,6 @@
 # Quarkus Application Initialization and Termination
 
-
+[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)](https://youtu.be/jcSffcjuOZ0 "Click to play on Youtube.com")
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
